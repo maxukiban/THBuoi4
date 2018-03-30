@@ -1,0 +1,6 @@
+C:\Users\admin\source\repos\BAI2\Bai2UDP\obj\Debug\Bai2UDP.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\BAI2\Bai2UDP\bin\Debug\Bai2UDP.exe.config
+C:\Users\admin\source\repos\BAI2\Bai2UDP\bin\Debug\Bai2UDP.exe
+C:\Users\admin\source\repos\BAI2\Bai2UDP\bin\Debug\Bai2UDP.pdb
+C:\Users\admin\source\repos\BAI2\Bai2UDP\obj\Debug\Bai2UDP.exe
+C:\Users\admin\source\repos\BAI2\Bai2UDP\obj\Debug\Bai2UDP.pdb
